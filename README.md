@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Augustine! <br/><a href="https://github.com/augustineadu-ny/">Technical Support Analyst</a>, <a href="https://www.linkedin.com/in/augustine-adu-403282403/">Cybersecurity Professional</a>
+<h1> ✨ Hi, I'm Augustine! <br/><a href="https://github.com/augustineadu-ny/">IT Systems Analyst | Technical Support Analyst</a>, <a href="https://www.linkedin.com/in/augustine-adu-403282403/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Techincal Projects Labs:</h2>
 
