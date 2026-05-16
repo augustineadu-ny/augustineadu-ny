@@ -6,13 +6,13 @@
 - <b> Microsoft Azure </b>
   - [Hands-on Microsoft Azure cloud infrastructure](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/449570468/image-list/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk)
 - <b> Networking & Linux Virtulaization </b>
-  - [Distinct domain of modern network administration](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/453206558/image-list/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk) <b>
+  - [Distinct Domain of modern network administration](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/453206558/image-list/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk) <b>
 - <b>Windows Server Administration</b>
   - [Windows Admin Center (WAC) on Windows Server with Desktop Experience](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/631809003/treasury/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk)
 - <b>System Analysis</b>
-  - [Business Process: Funtional Requirments, UML and User Stories, Requirements Elicitation ]()
+  - [Business Process: Funtional Requirments, UML and User Stories, Requirements Elicitation ](https://docs.google.com/document/d/11jbp0Zxe7yhrywPa6nETBYc9DHh4Q53u7aGBb1bul_o/edit?usp=drive_link)
 - <b>Python</b>
-  - [Cloud Automation)]()
+  - [Cloud Automation](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/453206558/treasury/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk)
 
 <h2>📺 Videos </h2>
 <h2> 🤳 Connect with me:</h2>
