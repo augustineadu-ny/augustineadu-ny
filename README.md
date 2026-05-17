@@ -9,6 +9,8 @@
   - [Distinct Domain of modern network administration](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/453206558/image-list/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk) <b>
 - <b>Windows Server Administration</b>
   - [Windows Admin Center (WAC) on Windows Server with Desktop Experience](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/631809003/treasury/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk)
+- <b>Windows and Linux Server Administration</b>
+  - [Windows Server AD & GPO | Linux Server (CentOS & SAMBA)](https://www.linkedin.com/in/augustine-adu-403282403/overlay/Project/787215399/treasury/?profileId=ACoAAGcW38MBltJzoJ8ot_HEG5MIDJY2VqyblLk)
 - <b>System Analysis</b>
   - [Business Process: Funtional Requirments, UML and User Stories, Requirements Elicitation ](https://docs.google.com/document/d/11jbp0Zxe7yhrywPa6nETBYc9DHh4Q53u7aGBb1bul_o/edit?usp=drive_link)
 - <b>Python</b>
